@@ -74,7 +74,7 @@ Open a **brand new, separate Windows PowerShell window** to execute your operati
 $env:ANTHROPIC_BASE_URL="http://127.0.0.1:8082"
 
 # 2. Provide your validation token matrix
-$env:ANTHROPIC_API_KEY="nvapi-rxiV9Mr3Qhd5bWFdjRdWrh2c8s"
+$env:ANTHROPIC_API_KEY="nvapi-........"
 
 # 3. Purge standard console cookie session caching variables
 Remove-Item Env:\ANTHROPIC_AUTH_TOKEN -ErrorAction SilentlyContinue
